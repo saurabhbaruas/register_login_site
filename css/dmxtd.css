@@ -1,0 +1,21 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(https://farm9.staticflickr.com/8390/8506211872_d1294730be_k.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html ul,html li{margin:0;padding:0;}
+html a{color:#FFF;text-decoration:none;}
+
+html {overflow-y: scroll;}
+
+.clear{clear:both;}
+.content h1{
+    text-align:center;
+    color:#0A76B7;}
+
+.content p{text-align:justify;}

@@ -1,0 +1,47 @@
+.menu li,a{cursor:pointer;}
+/****************************
+ POSITIONNEMENT RESPONSIVE 
+****************************/
+.tl{top:0;left:0}
+.tc{top:0;left:50%}
+.tr{top:0;right:0}
+.cl{top:50%;left:0}
+.cc{top:50%;left:50%}
+.cr{top:50%;right:0}
+.bl{bottom:0;left:0}
+.bc{bottom:0;left:50%}
+.br{bottom:0;right:0;}
+
+/****************************
+ POSITIONNEMENT
+****************************/
+.absolute{position:absolute}
+.relative{position:relative}
+.fixed{position:fixed}
+
+/****************************
+ TAILLE RESPONSIVE
+****************************/
+.full{width:100%}
+.half{width:50%}
+.q3{width:75%}
+.q1{width:25%}
+.t2{width:66.6%}
+.t1{width:33.3%}
+
+/****************************
+DISPLAY
+****************************/
+.hidden{display:hidden}
+.block{display:block}
+.inline-block{display:inline-block}
+.fl{float:left}
+.fr{float:right}
+.clear{clear:both}
+
+/****************************
+ESPACEMENT
+****************************/
+.p0{padding:0}
+.m0{margin:0;}
+.mauto{margin:left:auto;margin-right:auto;}

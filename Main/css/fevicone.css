@@ -1,0 +1,15 @@
+body {
+     margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    font-family: tahoma;   
+}
+#main {
+    border: 3px strong blue;
+}
+ #div2  {    
+    background: aqua;
+        height: auto;
+     margin:auto;
+}
